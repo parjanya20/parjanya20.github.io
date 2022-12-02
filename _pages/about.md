@@ -1,14 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Parjanya"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m a senior undergraduate in the Electrical Engineering department at IIT Delhi. My research interests mainly lie in the area of Machine Learning, particularly building algorithms f. I am interested in studying the vulnerabilities of systems, quantifying and analyzing the robustness of models.
+During my junior year, I interned at the Genome Institute of Singapore, where I worked with Shyam Prabhakar on topics related to Single Cell Data Science. I spent my summer 2022 remotely interning at KTH Royal Institute of Technology with Prof. Marco Chiesa where I worked on Data-Driven Network Connectivity.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+At IIT Delhi, I have been lucky to work with Prof. Jayadeva on Explainable AI and its applications to Genomics. I have also had the fortune of working with Prof. Arpan Chattopadhyay on Adverserial Image Detection.
+
+Aside from my research, I lead the student team at the Electrical Engineering Alumni Outreach Committee for ‘22-23. 
 
 A data-driven personal website
 ======
