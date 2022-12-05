@@ -34,7 +34,6 @@ Projects
     <img align="left" src="images/ackley.png" width="400px"/>
   </a>
 </p>
-<br><br> <br>
 <span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
 Often, the derivative of the objective function may not be possible to obtain. We developed an derivative-free algorithm to minimise mult-variable functions. 
 
