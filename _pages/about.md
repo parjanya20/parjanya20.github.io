@@ -21,6 +21,19 @@ Aside from my research, I lead the student team at the Electrical Engineering Al
 
 Projects
 ======
+<p>
+  <a href="https://github.com/vasudevgupta7/Bridgei2i-Winning-Solutions" title="Redirect to homepage">
+    <img align="left" src="images/case2_ackley_function.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Multilingual Text Classification </span> <br>
+ Training <a href="https://arxiv.org/pdf/2012.15699.pdf">robust</a> models on sparce mutlilingual data to improve out of distribution robustness
+
+<br clear="left"/>
+<br> 
+
+
 
 
 Miscellaneous
