@@ -31,26 +31,24 @@ Projects
 ======
 <p>
   <a href="https://drive.google.com/file/d/1g2Be2ZvQMEwkivFxazWQHn1y7BGiIf_X/view?usp=sharing" title="Report">
-    <img align="left" src="images/ackley.png" width="600px"/>
+    <img align="left" src="images/ackley.png" width="400px"/>
   </a>
 </p>
 <br><br> <br>
 <span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
 Often, the derivative of the objective function may not be possible to obtain. We developed an derivative-free algorithm to minimise mult-variable functions. 
 
-Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem, Worst Case Circuit Analysis and Hyperparameter Tuning.
+Our algorithm is based on Ant Colony Optimisation methods. We apply our method to the Travelling Salesman Problem, Worst Case Circuit Analysis and Hyperparameter Tuning.
 <br clear="left"/>
 <br> 
 <p>
-  <a href="https://drive.google.com/file/d/1g2Be2ZvQMEwkivFxazWQHn1y7BGiIf_X/view?usp=sharing" title="Report">
-    <img align="left" src="images/case2_ackley_function.png" width="400px"/>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
   </a>
 </p>
 <br><br> <br>
-<span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
-We developed an derivative-free algorithm to minimise mult-variable functions. Often, information about the derivative of the objective function is unavailable, unreliable or impractical to obtain. For example, the function might be non-smooth or time-consuming to evaluate. 
-
-Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem and Worst Case Circuit Analysis.
+<span align ='center' style="color:DimGray; font-weight:700">GraphUMAP</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
 <br clear="left"/>
 <br> 
 
