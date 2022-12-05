@@ -35,9 +35,7 @@ Projects
   </a>
 </p>
 <span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
-Often, the derivative of the objective function may not be possible to obtain. We developed an derivative-free algorithm to minimise mult-variable functions. 
-
-Our algorithm is based on Ant Colony Optimisation methods. We apply our method to the Travelling Salesman Problem, Worst Case Circuit Analysis and Hyperparameter Tuning.
+Often, the derivative of the objective function may not be possible to obtain. We developed an derivative-free algorithm to minimise mult-variable functions. Our algorithm is based on Ant Colony Optimisation methods. We apply our method to the Travelling Salesman Problem, Worst Case Circuit Analysis and Hyperparameter Tuning.
 <br clear="left"/>
 <br> 
 <p>
