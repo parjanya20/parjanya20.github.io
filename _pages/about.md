@@ -22,14 +22,15 @@ Aside from my research, I lead the student team at the Electrical Engineering Al
 Projects
 ======
 <p>
-  <a href="https://github.com/vasudevgupta7/Bridgei2i-Winning-Solutions" title="Redirect to homepage">
+  <a href="https://drive.google.com/file/d/1g2Be2ZvQMEwkivFxazWQHn1y7BGiIf_X/view?usp=sharing" title="Report">
     <img align="left" src="images/case2_ackley_function.png" width="400px"/>
   </a>
 </p>
 <br><br> <br>
-<span align ='center' style="color:DimGray; font-weight:700">Multilingual Text Classification </span> <br>
- Training <a href="https://arxiv.org/pdf/2012.15699.pdf">robust</a> models on sparce mutlilingual data to improve out of distribution robustness
+<span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
+We developed an derivative-free algorithm to minimise mult-variable functions. Often, information about the derivative of the objective function is unavailable, unreliable or impractical to obtain. For example, the function might be non-smooth or time-consuming to evaluate. 
 
+Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem and Worst Case Circuit Analysis.
 <br clear="left"/>
 <br> 
 
