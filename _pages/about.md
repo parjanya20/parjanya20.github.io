@@ -19,6 +19,11 @@ At IIT Delhi, I have been working with [Prof. Jayadeva](https://web.iitd.ac.in/~
 
 Aside from my research, I lead the student team at the Electrical Engineering Alumni Outreach Committee for ‘22-23. 
 
+## Publications 
++ **Crop Yield Prediction of Indian Districts Using Deep Learning** <br>
+**Parjanya Prashant**, Kaustubh Ponkshe, Chirag Garg, Ishan Pendse, Prathamesh Muley <br>
+*International Conference on Image Information Processing 2021* <br>
+[[Paper](https://ieeexplore.ieee.org/document/9702573)][[code](https://github.com/parjanya20/CropYieldPrediction)] <br><br>
 Projects
 ======
 <p>
@@ -33,7 +38,18 @@ We developed an derivative-free algorithm to minimise mult-variable functions. O
 Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem and Worst Case Circuit Analysis.
 <br clear="left"/>
 <br> 
+<p>
+  <a href="https://drive.google.com/file/d/1g2Be2ZvQMEwkivFxazWQHn1y7BGiIf_X/view?usp=sharing" title="Report">
+    <img align="left" src="images/case2_ackley_function.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
+We developed an derivative-free algorithm to minimise mult-variable functions. Often, information about the derivative of the objective function is unavailable, unreliable or impractical to obtain. For example, the function might be non-smooth or time-consuming to evaluate. 
 
+Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem and Worst Case Circuit Analysis.
+<br clear="left"/>
+<br> 
 
 
 
