@@ -51,6 +51,76 @@ Our algorithm is based on Ant Colony Optimisation methods. We apply our method t
 We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
 <br clear="left"/>
 <br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Tree Type Neural Networks</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Feature Selection for Classification of Colorectal Cancer Subtypes</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Multomodal Single-Cell Data Integration</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Image Segmentation of Hyperspectral Images</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Image Segmentation of Hyperspectral Images</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Clustering using Kernel Optimisation</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
+<p>
+  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
+    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  </a>
+</p>
+<br><br> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Portfolio Optimisation</span> <br>
+We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<br clear="left"/>
+<br> 
 
 
 
