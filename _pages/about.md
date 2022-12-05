@@ -13,7 +13,7 @@ I am a senior undergraduate in the Electrical Engineering department at IIT Delh
 
 2. Explainable AI: How can we build models that are interpretable, robust, and generalizable? 
 
-During my junior year, I interned at the Genome Institute of Singapore, where I worked with [Shyam Prabhakar](https://prabhakarlab.github.io/) on topics related to Single Cell Data Science. Before that, I spent my summer 2022 remotely interning at KTH Royal Institute of Technology with [Prof. Marco Chiesa](https://marchiesa.bitbucket.io/) where I worked on Data-Driven Network Connectivity.
+During my junior year, I interned at the Genome Institute of Singapore, where I worked with [Shyam Prabhakar](https://prabhakarlab.github.io/) on topics related to Single Cell Data Science. Before that, I spent my summer remotely interning at KTH Royal Institute of Technology with [Prof. Marco Chiesa](https://marchiesa.bitbucket.io/) where I worked on Data-Driven Network Connectivity.
 
 At IIT Delhi, I have been working with [Prof. Jayadeva](https://web.iitd.ac.in/~jayadeva/) on Explainable AI and its applications to Genomics. I am also working with [Prof. Arpan Chattopadhyay](https://sites.google.com/site/arpanchattop/) on Adverserial Image Detection.
 
