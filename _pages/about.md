@@ -69,12 +69,13 @@ We developed GraphUMAP, a novel visualization technique for graph-structured dat
 <br clear="left"/>
 <br> 
 <p>
-  <a href="https://docs.google.com/presentation/d/17BQ7Ux2sk3LjEgsFaRRT0t0NFfDDP5vsl2FEezAUBY4/edit?usp=sharing" title="Slides">
-    <img align="left" src="images/GraphUMAP.png" width="400px"/>
+  <a href="https://drive.google.com/file/d/19xnHzSFD6JfazYlSe4bHPC6HX1BqbrZi/view?usp=sharing" title="Brief Report">
+    <img align="left" src="images/DataIntegration.png" width="400px"/>
   </a>
 </p>
-<span align ='center' style="color:DimGray; font-weight:700">Multomodal Single-Cell Data Integration</span> <br>
-We developed GraphUMAP, a novel visualization technique for graph-structured data based on UMAP.  Popular visualization techniques like UMAP and tSNE do not utilise graph structure information. Our proposed method GraphUMAP produces visualizations which account for both graph structure and node features. 
+<span align ='center' style="color:DimGray; font-weight:700">Multimodal Single-Cell Data Integration</span> <br>
+The emerging diversity of single-cell RNA-seq datasets allows for the full transcriptional characterization of cell types across a wide variety of biological and clinical conditions. However, it is challenging to analyze them together because technical and biological variation are interspersed. 
+We are working on a novel iterative data integration algorithm for this task.
 <br clear="left"/>
 <br> 
 <p>
