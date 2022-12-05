@@ -19,11 +19,14 @@ At IIT Delhi, I have been working with [Prof. Jayadeva](https://web.iitd.ac.in/~
 
 Aside from my research, I lead the student team at the Electrical Engineering Alumni Outreach Committee for ‘22-23. 
 
-## Publications 
+Publications 
+======
 + **Crop Yield Prediction of Indian Districts Using Deep Learning** <br>
 **Parjanya Prashant**, Kaustubh Ponkshe, Chirag Garg, Ishan Pendse, Prathamesh Muley <br>
 *International Conference on Image Information Processing 2021* <br>
 [[Paper](https://ieeexplore.ieee.org/document/9702573)][[code](https://github.com/parjanya20/CropYieldPrediction)] <br><br>
+
+
 Projects
 ======
 <p>
