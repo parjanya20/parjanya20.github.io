@@ -28,7 +28,7 @@ Projects
 ======
 <p>
   <a href="https://drive.google.com/file/d/1g2Be2ZvQMEwkivFxazWQHn1y7BGiIf_X/view?usp=sharing" title="Report">
-    <img align="left" src="images/case2_ackley_function.png" width="400px"/>
+    <img align="left" src="images/ackley.png" width="600px"/>
   </a>
 </p>
 <br><br> <br>
