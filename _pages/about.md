@@ -33,9 +33,9 @@ Projects
 </p>
 <br><br> <br>
 <span align ='center' style="color:DimGray; font-weight:700">Function Minimisation with Swarm Optimisation</span> <br>
-We developed an derivative-free algorithm to minimise mult-variable functions. Often, information about the derivative of the objective function is unavailable, unreliable or impractical to obtain. For example, the function might be non-smooth or time-consuming to evaluate. 
+Often, the derivative of the objective function may not be possible to obtain. We developed an derivative-free algorithm to minimise mult-variable functions. 
 
-Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem and Worst Case Circuit Analysis.
+Our method, based on Ant Colony Optimisation methods, works on minimising a wide range of functions. In particular, we apply our method to the Travelling Salesman Problem, Worst Case Circuit Analysis and Hyperparameter Tuning.
 <br clear="left"/>
 <br> 
 <p>
@@ -55,7 +55,7 @@ Our method, based on Ant Colony Optimisation methods, works on minimising a wide
 
 Miscellaneous
 ======
-1. Enjoy competitive debating and am an active member of IIT Delhi DebSoc
+1. Enjoy competitive debating and am an active member of IIT Delhi DebSoc.
 2. Huge cricket fan; Shane Warne is the GOAT!
 3. Love watching all sorts of documentaries, favourites being BBC's Planet Earth and Nat Geo's Air Crash Investigation.
 
