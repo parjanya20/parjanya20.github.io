@@ -59,7 +59,7 @@ We are working on a novel iterative data integration algorithm for this task.
 <br> 
 <p>
   <a href="" title="Slides">
-    <img align="left" src="CRC.png" width="400px"/>
+    <img align="left" src="images/CRC.png" width="400px"/>
   </a>
 </p>
 <span align ='center' style="color:DimGray; font-weight:700">Developing clinical test for colorectal cancer subtypes</span> <br>
