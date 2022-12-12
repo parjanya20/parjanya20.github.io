@@ -57,6 +57,25 @@ The emerging diversity of single-cell RNA-seq datasets allows for the full trans
 We are working on a novel iterative data integration algorithm for this task.
 <br clear="left"/>
 <br> 
+<p>
+  <a href="" title="Slides">
+    <img align="left" src="CRC.png" width="400px"/>
+  </a>
+</p>
+<span align ='center' style="color:DimGray; font-weight:700">Developing clinical test for colorectal cancer subtypes</span> <br>
+Colorectal cancer is the third most common type of cancer. Our goal was to find a multiple sets of marker genes to be used in a clinical lab test for colorectal cancer subtyping. We found several sets of marker genes and now are in the process of performing clinical trials.
+<br clear="left"/>
+<br> 
+<p>
+  <a href="" title="Brief Report">
+    <img align="left" src="images/TreeTypeNeuralNetwork.png" width="400px"/>
+  </a>
+</p>
+<span align ='center' style="color:DimGray; font-weight:700">Tree Type Neural Networks</span> <br>
+Tree Type Neural Networks are an intrinsically interpretable neural architecture. Most AI models, especially neural networks, are "black box" models, where there is little transparency to how and why the models make the predictions they do, making it hard for humans to trust these models. We developed a model that combines an SVM-based decision-tree model with learned neural network features. 
+
+<br clear="left"/>
+<br> 
 
 
 
