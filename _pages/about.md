@@ -72,6 +72,8 @@ Colorectal cancer is the third most common type of cancer. Our goal was to find 
   </a>
 </p>
 <span align ='center' style="color:DimGray; font-weight:700">Tree Type Neural Networks</span> <br>
+<br>
+<br>
 Tree Type Neural Networks are an intrinsically interpretable neural architecture. Most AI models, especially neural networks, are "black box" models, where there is little transparency to how and why the models make the predictions they do, making it hard for humans to trust these models. We developed a model that combines an SVM-based decision-tree model with learned neural network features. 
 
 <br clear="left"/>
