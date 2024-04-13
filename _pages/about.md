@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Master's student in the ECE Department at UCSD. I completed my undergrad from IIT Delhi. My research interests like in Causal Inference, Discovery and its applications to various machine learning tasks. At UCSD, I currently work with [Prof. Babak Salimi](https://bsalimi.github.io/) on OOD Generalization and with [Prof. Biwei Huang](https://biweihuang.com/) on Causal Discovery. In the past, I interned at the Genome Institute of Singapore, where I worked with [Shyam Prabhakar](https://prabhakarlab.github.io/) on topics related to Single Cell Data Science.  
+I am a first-year Master's student in the ECE Department at UCSD. I completed my undergrad from IIT Delhi. My research interests like in Causal Inference, Causal Discovery and its applications to various machine learning tasks. At UCSD, I currently work with [Prof. Babak Salimi](https://bsalimi.github.io/) on OOD Generalization and with [Prof. Biwei Huang](https://biweihuang.com/) on Causal Discovery. In the past, I interned at the Genome Institute of Singapore, where I worked with [Shyam Prabhakar](https://prabhakarlab.github.io/) on topics related to Single Cell Data Science.  
 
 Publications 
 ======
