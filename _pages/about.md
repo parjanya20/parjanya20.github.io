@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Master's student in the ECE Department at UCSD. My research interests lie in Trustworthy ML and Causal ML. At UCSD, I primarily work with [Prof. Babak Salimi](https://bsalimi.github.io/) and with [Prof. Biwei Huang](https://biweihuang.com/). I have also spent time at [MBZUAI](https://mbzuai.ac.ae/) with [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) and at [GIS](https://www.a-star.edu.sg/gis) of Singapore with [Shyam Prabhakar](https://prabhakarlab.github.io/). I completed my undergrad at IIT Delhi.
+I am a second-year Master's student in the ECE Department at UCSD. My research interests lie in Trustworthy ML and Causal ML. At UCSD, I primarily work with [Prof. Babak Salimi](https://bsalimi.github.io/) and with [Prof. Biwei Huang](https://biweihuang.com/). I have also spent time at [MBZUAI](https://mbzuai.ac.ae/) with [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) and at [GIS](https://www.a-star.edu.sg/gis) of Singapore with [Shyam Prabhakar](https://prabhakarlab.github.io/). I completed my undergrad from IIT Delhi.
 
 Publications
 ======
