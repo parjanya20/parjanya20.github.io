@@ -19,7 +19,7 @@ Publications
 
 + **Differentiable Causal Discovery For Latent Hierarchical Causal Models** <br>
 **Parjanya Prashant**, Ignavier Ng, Kun Zhang, Biwei Huang <br>
-*arXiv preprint arXiv:2411.19556 (2024)* (Under Review) <br>
+*arXiv preprint arXiv:2411.19556 (2024)* (Under Review) (Accepted at NeurIPS '24 Causal Representation Learning Workshop) <br>
 [[Paper](https://arxiv.org/abs/2411.19556)] <br><br>
 
 + **Crop Yield Prediction of Indian Districts Using Deep Learning** <br>
