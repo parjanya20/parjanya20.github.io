@@ -26,7 +26,7 @@ Accepted at NeurIPS '24 Causal Representation Learning Workshop <br>
 + **Crop Yield Prediction of Indian Districts Using Deep Learning** <br>
 **Parjanya Prashant**, Kaustubh Ponkshe, Chirag Garg, Ishan Pendse, Prathamesh Muley <br>
 *International Conference on Image Information Processing 2021* <br>
-[[Paper](https://ieeexplore.ieee.org/document/9702573)][[code](https://github.com/parjanya20/CropYieldPrediction)] <br><br>
+[[Paper](https://ieeexplore.ieee.org/document/9702573)]]<br><br>
 
 Miscellaneous
 ======
