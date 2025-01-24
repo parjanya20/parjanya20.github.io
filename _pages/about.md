@@ -14,13 +14,14 @@ Publications
 
 + **Scalable Out-of-distribution Robustness in the Presence of Unobserved Confounders** <br>
 **Parjanya Prashant**, Seyedeh Baharan Khatami, Bruno Ribeiro, Babak Salimi <br>
-*arXiv preprint arXiv:2411.19923 (2024)* (Under Review) <br>
+*arXiv preprint arXiv:2411.19923 (2024)* <br>
+*International Conference on Artificial Intelligence and Statistics 2025*<br> 
 [[Paper](https://arxiv.org/abs/2411.19923)] <br><br>
 
 + **Differentiable Causal Discovery For Latent Hierarchical Causal Models** <br>
 **Parjanya Prashant**, Ignavier Ng, Kun Zhang, Biwei Huang <br>
-*arXiv preprint arXiv:2411.19556 (2024)* (Under Review) <br>
-Accepted at NeurIPS '24 Causal Representation Learning Workshop <br>
+*arXiv preprint arXiv:2411.19556 (2024)* <br>
+*International Conference on Learning Representations 2025* <br>
 [[Paper](https://arxiv.org/abs/2411.19556)] <br><br>
 
 + **Crop Yield Prediction of Indian Districts Using Deep Learning** <br>
