@@ -7,10 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Master's student in the ECE Department at UCSD. My research interests lie in Trustworthy ML and Causal ML. At UCSD, I primarily work with [Prof. Babak Salimi](https://bsalimi.github.io/) and with [Prof. Biwei Huang](https://biweihuang.com/). I have also spent time at [MBZUAI](https://mbzuai.ac.ae/) with [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) and at [GIS](https://www.a-star.edu.sg/gis) of Singapore with [Shyam Prabhakar](https://prabhakarlab.github.io/). I completed my undergrad from IIT Delhi.
+I am an incoming PhD student in the Data Science Department (HDSI) at UC San Diego, advised by [Prof. Babak Salimi](https://bsalimi.github.io/) and [Prof. Biwei Huang](https://biweihuang.com/). My research interests broadly focus on trustworthy machine learning (data attribution, memorization, causality). I hold Bachelor's and Master's degrees in Electrical Engineering from IIT Delhi and UC San Diego, respectively.
 
 Publications
 ======
+
++ **TOKENSWAP: A Lightweight Method to Disrupt Memorized Sequences in LLMs** <br>
+**Parjanya Prashant***, Kaustubh Ponkshe*, Babak Salimi <br>
+*Under Review*<br> 
+[[Paper](https://arxiv.org/abs/2502.05159)] <br><br>
 
 + **Scalable Out-of-distribution Robustness in the Presence of Unobserved Confounders** <br>
 **Parjanya Prashant**, Seyedeh Baharan Khatami, Bruno Ribeiro, Babak Salimi <br>
