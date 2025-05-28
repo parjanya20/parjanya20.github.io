@@ -15,22 +15,22 @@ Publications
 + **TOKENSWAP: A Lightweight Method to Disrupt Memorized Sequences in LLMs** <br>
 **Parjanya Prashant***, Kaustubh Ponkshe*, Babak Salimi <br>
 *Under Review*<br> 
-[[Paper](https://arxiv.org/abs/2502.05159)] <br><br>
+[[Paper](https://arxiv.org/abs/2502.05159)] <br>
 
 + **Scalable Out-of-distribution Robustness in the Presence of Unobserved Confounders** <br>
 **Parjanya Prashant**, Seyedeh Baharan Khatami, Bruno Ribeiro, Babak Salimi <br>
 *International Conference on Artificial Intelligence and Statistics 2025*<br> 
-[[Paper](https://arxiv.org/abs/2411.19923)] <br><br>
+[[Paper](https://arxiv.org/abs/2411.19923)] <br>
 
 + **Differentiable Causal Discovery For Latent Hierarchical Causal Models** <br>
 **Parjanya Prashant**, Ignavier Ng, Kun Zhang, Biwei Huang <br>
 *International Conference on Learning Representations 2025* <br>
-[[Paper](https://arxiv.org/abs/2411.19556)] <br><br>
+[[Paper](https://arxiv.org/abs/2411.19556)] <br>
 
 + **Crop Yield Prediction of Indian Districts Using Deep Learning** <br>
 **Parjanya Prashant**, Kaustubh Ponkshe, Chirag Garg, Ishan Pendse, Prathamesh Muley <br>
 *International Conference on Image Information Processing 2021* <br>
-[[Paper](https://ieeexplore.ieee.org/document/9702573)]<br><br>
+[[Paper](https://ieeexplore.ieee.org/document/9702573)]<br>
 
 Miscellaneous
 ======
