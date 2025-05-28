@@ -13,9 +13,9 @@ Publications
 ======
 
 + **TOKENSWAP: A Lightweight Method to Disrupt Memorized Sequences in LLMs** <br>
-**Parjanya Prashant**\*, Kaustubh Ponkshe\*, Babak Salimi <br>
+**Parjanya Prashant**<sup>1</sup>, Kaustubh Ponkshe<sup>1</sup>, Babak Salimi <br>
 *Under Review*<br>
-\*Equal contribution
+<sup>1</sup>Equal contribution
 [[Paper](https://arxiv.org/abs/2502.05159)] <br>
 
 + **Scalable Out-of-distribution Robustness in the Presence of Unobserved Confounders** <br>
